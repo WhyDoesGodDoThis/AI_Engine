@@ -1,0 +1,1 @@
+This folder is for ai training sets and ai data saves.
